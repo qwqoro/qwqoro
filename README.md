@@ -6,8 +6,7 @@
 ![ Pronouns         ](https://img.shields.io/badge/[%20She%20/%20Her%20]-informational?style=flat-square&color=eeeeee)
 ![ Languages        ](https://img.shields.io/badge/[%20RU%20|%20UA%20|%20EN%20]-informational?style=flat-square&color=eeeeee)
 ![ Personality Type ](https://img.shields.io/badge/[%20ISTJ%20]-informational?style=flat-square&color=eeeeee)
-- 🔥 Redhead white hat
-- 🔓 I work as a (Offensive) Cyber Security Analyst
+- 🔓 Cyber Security Analysis Specialist
 - ⚙️ I take part in Web/Mobile Application Penetration Testing
 - ⚔️ I participate in CTF events + solve labs
 - ⌨️ I hack, code & learn because I love it
