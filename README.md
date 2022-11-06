@@ -7,6 +7,7 @@
 ![ Languages        ](https://img.shields.io/badge/[%20RU%20|%20UA%20|%20EN%20]-informational?style=flat-square&color=eeeeee)
 ![ Personality Type ](https://img.shields.io/badge/[%20ISTJ%20]-informational?style=flat-square&color=eeeeee)
 - 🔓 Cyber Security Analysis Specialist
+- 🐉 Offensive Security Certified Professional
 - ⚙️ I take part in Web/Mobile Application Penetration Testing
 - ⚔️ I participate in CTF events + solve labs
 - ⌨️ I hack, code & learn because I love it
