@@ -1,7 +1,7 @@
-[![QWQORO](banner.gif)](https://github.com/qwqoro)
+[![QWQORO](images/gif.gif)](https://github.com/qwqoro)
 
 # Hello! 👋
-<img align="right" alt="🐼" width="28%" src="🐼.jpg" />
+<img align="right" alt="🐼" width="28%" src="images/🐼.jpg" />
 
 [![ Pronouns         ](https://img.shields.io/badge/[%20She%20/%20Her%20]-informational?style=flat-square&color=eeeeee)]()
 [![ Languages        ](https://img.shields.io/badge/[%20RU%20|%20UA%20|%20EN%20]-informational?style=flat-square&color=eeeeee)]()
